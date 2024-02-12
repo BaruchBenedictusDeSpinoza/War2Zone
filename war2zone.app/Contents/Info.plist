@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>war2zone</string>
+	<key>CFBundleExecutable</key>
+	<string>war2zone</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-70b08e7d3c1047aaeeeab188583330cc0c7509a3b0b4b22d1865956b04c3fbb5.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>war2zone</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>war2zone</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
