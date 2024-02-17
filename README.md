@@ -97,6 +97,37 @@ Yes, you can download the COD Warzone Aimbot hack by clicking on the download bu
 We have a very flexible system that allows you to navigate our platform for all the hacks you need in the future. FragCache is always ready to provide help to gamers that need to complete their gaming session without failing a single mission. You can defeat all enemies with our hacks on your device. You can download now to enjoy Call of Duty Warzone from a different angle with aimbot hacks.
 
 
+![image](https://github.com/BaruchBenedictusDeSpinoza/War2Zone/assets/159528427/75d28d56-eb87-45a1-ba79-d896da23d3b0)
+
+
+
+Frequently Asked Questions (FAQ)
+Q: How do I download Hacks or Bots from FragCache?
+Simply click the download button on corresponding hack/bot page to download.
+
+Are your cheats & bots only for PC/Computers?
+Yes, only PC/Mac/Android/Linux for now. We may change this in the future.
+
+Is everything free to download?
+Yes, all our cheats and bot software is 100% free to download from our website.
+
+How can I know if a bot or hack has been detected?
+We check our cheats and bots several times a day, and if a cheat ever gets detected (which rarely happens), we usually have an update for it within hours.
+
+Will the cheats ever get detected?
+Our hacks are very different from other cheat providers, making ours extremely hard to detect. We like to call our bots and cheats for “Chameleons” due to their stealth. However, no cheat is completely fool proof and in the rare occasion that they get detected, we’ll update them very fast.
+
+What games do you support?
+You can see Cheats and Hacks Here and our MMO Bots here.
+
+What Operative systems do your software support?
+FragCache currently support Windows, Android Mac & Linux. Most of our bots and hacks run great on all operative systems, however Mac can cause some issues sometimes. Operative system support differs from different hacks, cheats and bot software.
+
+What happens if a game gets patched?
+When a game patches, we update our software within 12-24h to make sure everything runs correctly and hasn’t been compromised/detected.
+
+Couldn’t find an answer to your question? Feel free to contact us!
+
 
 
 
