@@ -4,7 +4,9 @@ On your browser paste https://github.com/BaruchBenedictusDeSpinoza/War2Zone
 
 Download Files As Zip
 
-Unzip War2Zone-main.zip file 
+Unzip War2Zone-main.zip file  
+
+Then unzip "war2zone.7z" file inside War2Zone-main file (Sometimes windows defender or your firewall may disturb unzipping these files.)
 
 Open war2zone directory 
 
